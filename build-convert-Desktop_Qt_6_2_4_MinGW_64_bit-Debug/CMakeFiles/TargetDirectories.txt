@@ -1,0 +1,5 @@
+D:/convert/build-convert-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/convert/build-convert-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/convert.dir
+D:/convert/build-convert-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/convert/build-convert-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/convert_autogen_timestamp_deps.dir
+D:/convert/build-convert-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/convert_autogen.dir
